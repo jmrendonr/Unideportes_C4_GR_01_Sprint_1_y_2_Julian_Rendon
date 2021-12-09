@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UnideportesApplication<unideportes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.unideportes.unideportes.UnideportesApplication",
+            "projectName": "unideportes",
+            "args": ""
+        }
+    ]
+}
